@@ -1,1 +1,2 @@
-# DataStruct
+# DataStruct-algo
+数据结构。基本数据结构的 Java实现，以及多个配套的LeetCode题示例。包括但不限于 数组，链表，栈，队列，二叉树，散列表，跳表，布隆过滤器，并查集, LRU，等等。
